@@ -75,3 +75,12 @@ button:hover {
     cursor: pointer;
     border:1px solid black;
 }
+@media screen and (max-width :600px){
+
+.card-container,.bio-info {
+
+width:auto;
+
+}
+
+} 
